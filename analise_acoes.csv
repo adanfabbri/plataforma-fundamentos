@@ -1,0 +1,473 @@
+﻿Ativo,Ativo Meta,Empresa,Tendencia 200 dias,Gap Relevante 7 dias,Rompimento 20 dias,Topos e Fundos,SP500 em baixa,3 Balanço negativo,Setor Fragilizado,negativas de lucro (EPS),Short Float 10,Liquidez minima,Preço atual,ATR acima da média 3 meses,Histórico com gaps relevantes,próxima entrada,proximo Balanco
+MMM,MMM.NYSE,3M Company,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-15,2025-07-18
+AOS,AOS.NYSE,A. O. Smith Corporation,1,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+ABT,ABT.NYSE,Abbott Laboratories,0,0,0,0,0,0,1,0,0,1,1,1,0,2025-07-14,2025-07-17
+ABBV,ABBV.NYSE,AbbVie Inc.,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-07-28,2025-07-31
+ACN,ACN.NYSE,Accenture plc,0,1,1,1,0,0,0,0,0,1,1,0,1,2025-09-19,2025-09-24
+ADBE,ADBE.NAS,Adobe Inc.,1,1,1,1,0,1,0,0,0,1,1,1,1,2025-09-05,2025-09-10
+AMD,AMD.NAS,"Advanced Micro Devices, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+AES,AES.NYSE,The AES Corporation,0,1,0,0,0,1,0,0,0,1,1,1,1,2025-07-28,2025-07-31
+AFL,AFL.NYSE,Aflac Incorporated,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-29,2025-11-03
+A,A.NYSE,"Agilent Technologies, Inc.",0,1,1,0,0,0,1,0,0,1,1,1,1,2025-08-22,2025-08-27
+APD,APD.NYSE,"Air Products and Chemicals, Inc.",0,0,0,0,0,0,1,0,0,1,1,1,0,2025-07-28,2025-07-31
+ABNB,ABNB.NAS,"Airbnb, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+AKAM,AKAM.NAS,"Akamai Technologies, Inc.",1,0,1,0,0,1,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+ALB,ALB.NYSE,Albemarle Corporation,1,1,0,0,0,0,1,0,1,1,1,0,1,2025-07-25,2025-07-30
+ARE,ARE.NYSE,"Alexandria Real Estate Equities, Inc.",1,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-16,2025-07-21
+ALGN,ALGN.NAS,"Align Technology, Inc.",1,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-24,2025-10-29
+ALLE,ALLE.NYSE,Allegion plc,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-20,2025-10-23
+LNT,LNT.NAS,Alliant Energy Corporation,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-11-03,2025-11-06
+GOOGL,GOOGL.NAS,Alphabet Inc.,0,1,0,0,0,0,0,0,0,1,1,1,1,2025-07-18,2025-07-23
+GOOG,GOOG.NAS,Alphabet Inc.,0,1,0,0,0,0,0,0,0,1,1,1,1,2025-07-18,2025-07-23
+MO,MO.NYSE,"Altria Group, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+AMZN,AMZN.NAS,"Amazon.com, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+AMCR,AMCR.NYSE,Amcor plc,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-08-11,2025-08-14
+AEE,AEE.NYSE,Ameren Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-28,2025-07-31
+AEP,AEP.NAS,"American Electric Power Company, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-25,2025-07-30
+AXP,AXP.NYSE,American Express Company,0,0,1,0,0,1,0,0,0,1,1,1,0,2025-10-14,2025-10-17
+AIG,AIG.NYSE,"American International Group, Inc.",0,0,1,1,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+AMT,AMT.NYSE,American Tower Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+AWK,AWK.NYSE,"American Water Works Company, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+AME,AME.NYSE,"AMETEK, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+AMGN,AMGN.NAS,Amgen Inc.,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-24,2025-10-29
+APH,APH.NYSE,Amphenol Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-17,2025-10-22
+ADI,ADI.NAS,"Analog Devices, Inc.",0,0,1,0,0,1,0,0,0,1,1,1,0,2025-08-15,2025-08-20
+ANSS,ANSS.NAS,"ANSYS, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-08-01,2025-08-06
+AON,AON.NYSE,Aon plc,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-21,2025-10-24
+APA,APA.NAS,APA Corporation,1,0,0,0,0,1,0,0,1,1,1,0,0,2025-10-31,2025-11-05
+APO,APO.NYSE,"Apollo Global Management, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+AAPL,AAPL.NAS,Apple Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+AMAT,AMAT.NAS,"Applied Materials, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-08-11,2025-08-14
+APTV,APTV.NYSE,Aptiv PLC,1,1,1,0,0,1,0,0,0,1,1,0,1,2025-10-27,2025-10-30
+ACGL,ACGL.NAS,Arch Capital Group Ltd.,0,0,1,1,0,1,0,0,0,1,1,1,0,2025-10-27,2025-10-30
+ADM,ADM.NYSE,Archer-Daniels-Midland Company,1,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+ANET,ANET.NYSE,Arista Networks Inc,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-07-31,2025-08-05
+AJG,AJG.NYSE,Arthur J. Gallagher & Co.,0,0,1,1,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+AIZ,AIZ.NYSE,"Assurant, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+T,T.NYSE,AT&T Inc.,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+ATO,ATO.NYSE,Atmos Energy Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+ADSK,ADSK.NAS,"Autodesk, Inc.",0,0,1,0,0,1,0,0,0,1,1,1,0,2025-08-25,2025-08-28
+ADP,ADP.NAS,"Automatic Data Processing, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+AVB,AVB.NYSE,"AvalonBay Communities, Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-07-25,2025-07-30
+AVY,AVY.NYSE,Avery Dennison Corporation,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+AXON,AXON.NAS,"Axon Enterprise, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-07-30,2025-08-04
+BKR,BKR.NAS,Baker Hughes Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+BALL,BALL.NYSE,Ball Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+BAC,BAC.NYSE,Bank of America Corporation,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-10,2025-10-15
+BAX,BAX.NYSE,Baxter International Inc.,1,1,1,1,0,1,1,0,0,1,1,0,1,2025-07-28,2025-07-31
+BDX,BDX.NYSE,"Becton, Dickinson and Company",1,0,0,0,0,1,1,0,0,1,1,0,0,2025-11-03,2025-11-06
+BBY,BBY.NYSE,"Best Buy Co., Inc.",0,1,1,0,0,1,0,0,0,1,1,1,1,2025-08-25,2025-08-28
+TECH,TECH.NAS,Bio-Techne Corporation,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-31,2025-11-05
+BIIB,BIIB.NAS,Biogen Inc.,1,0,1,0,0,1,1,0,0,1,1,0,0,2025-10-24,2025-10-29
+BLK,BLK.NYSE,"BlackRock, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-07,2025-10-10
+BX,BX.NYSE,Blackstone Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+BK,BK.NYSE,The Bank of New York Mellon Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-07,2025-10-10
+BA,BA.NYSE,The Boeing Company,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+BSX,BSX.NYSE,Boston Scientific Corporation,0,0,0,0,0,1,1,0,0,1,1,0,0,2025-07-18,2025-07-23
+BMY,BMY.NYSE,Bristol-Myers Squibb Company,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-27,2025-10-30
+AVGO,AVGO.NAS,Broadcom Inc.,0,1,0,0,0,0,0,0,1,1,1,0,1,2025-08-29,2025-09-03
+BR,BR.NYSE,"Broadridge Financial Solutions, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+BRO,BRO.NYSE,"Brown & Brown, Inc.",0,0,1,1,0,0,0,0,0,1,1,0,0,2025-10-22,2025-10-27
+BLDR,BLDR.NYSE,"Builders FirstSource, Inc.",1,1,0,0,0,0,0,0,0,1,1,0,1,2025-07-28,2025-07-31
+BG,BG.NYSE,Bunge Global SA,1,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+BXP,BXP.NYSE,"BXP, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+CHRW,CHRW.NAS,"C.H. Robinson Worldwide, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+CDNS,CDNS.NAS,"Cadence Design Systems, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-22,2025-10-27
+CZR,CZR.NAS,"Caesars Entertainment, Inc.",1,0,1,0,0,1,0,0,1,1,1,1,0,2025-07-24,2025-07-29
+CPT,CPT.NYSE,Camden Property Trust,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+CPB,CPB.NAS,The Campbell's Company,0,0,0,0,0,1,0,0,1,1,1,0,0,2025-08-29,2025-09-03
+COF,COF.NYSE,Capital One Financial Corporation,0,1,0,1,0,0,0,0,0,1,1,0,1,2025-10-20,2025-10-23
+CAH,CAH.NYSE,"Cardinal Health, Inc.",0,0,1,0,0,0,1,0,0,1,1,0,0,2025-08-07,2025-08-12
+KMX,KMX.NYSE,"CarMax, Inc.",0,1,1,0,0,0,0,0,0,1,1,1,1,2025-09-19,2025-09-24
+CARR,CARR.NYSE,Carrier Global Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+CAT,CAT.NYSE,Caterpillar Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+CBOE,CBOE.None,"Cboe Global Markets, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-29,2025-08-01
+CBRE,CBRE.NYSE,"CBRE Group, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+CDW,CDW.NAS,CDW Corporation,1,1,1,1,0,1,0,0,0,1,1,0,1,2025-10-31,2025-11-05
+COR,COR.NYSE,"Cencora, Inc.",0,0,1,0,0,0,1,0,0,1,1,0,0,2025-08-01,2025-08-06
+CNC,CNC.NYSE,Centene Corporation,1,1,1,0,0,0,1,0,0,1,1,1,1,2025-10-21,2025-10-24
+CNP,CNP.NYSE,"CenterPoint Energy, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-21,2025-07-24
+CF,CF.NYSE,"CF Industries Holdings, Inc.",0,0,1,0,0,0,1,0,0,1,1,0,0,2025-10-31,2025-11-05
+CRL,CRL.NYSE,"Charles River Laboratories International, Inc.",1,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-31,2025-11-05
+SCHW,SCHW.NYSE,The Charles Schwab Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-09,2025-10-14
+CHTR,CHTR.NAS,"Charter Communications, Inc.",0,1,1,0,0,0,0,0,1,1,1,0,1,2025-07-22,2025-07-25
+CVX,CVX.NYSE,Chevron Corporation,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-28,2025-10-31
+CMG,CMG.NYSE,"Chipotle Mexican Grill, Inc.",0,1,1,0,0,1,0,0,0,1,1,0,1,2025-07-18,2025-07-23
+CB,CB.NYSE,Chubb Limited,0,0,1,1,0,1,0,0,0,1,1,1,0,2025-07-17,2025-07-22
+CHD,CHD.NYSE,"Church & Dwight Co., Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-28,2025-10-31
+CI,CI.NYSE,The Cigna Group,0,0,1,0,0,0,1,0,0,1,1,0,0,2025-10-27,2025-10-30
+CINF,CINF.NAS,Cincinnati Financial Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+CTAS,CTAS.NAS,Cintas Corporation,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-09-19,2025-09-24
+CSCO,CSCO.NAS,"Cisco Systems, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-08-08,2025-08-13
+C,C.NYSE,Citigroup Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-09,2025-10-14
+CFG,CFG.NYSE,"Citizens Financial Group, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-10,2025-10-15
+CLX,CLX.NYSE,The Clorox Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+CME,CME.NAS,CME Group Inc.,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-17,2025-10-22
+CMS,CMS.NYSE,CMS Energy Corporation,0,0,0,0,0,1,0,0,0,1,1,1,0,2025-10-27,2025-10-30
+KO,KO.NYSE,The Coca-Cola Company,0,0,0,1,0,1,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+CTSH,CTSH.NAS,Cognizant Technology Solutions Corporation,0,0,1,1,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+COIN,COIN.NAS,"Coinbase Global, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-07-28,2025-07-31
+CL,CL.NYSE,Colgate-Palmolive Company,0,0,1,1,0,1,0,0,0,1,1,0,0,2025-10-28,2025-10-31
+CMCSA,CMCSA.NAS,Comcast Corporation,1,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+CAG,CAG.NYSE,"Conagra Brands, Inc.",0,0,1,0,0,1,0,0,0,1,1,1,0,2025-09-26,2025-10-01
+COP,COP.NYSE,ConocoPhillips,1,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-27,2025-10-30
+ED,ED.NYSE,"Consolidated Edison, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-11-03,2025-11-06
+STZ,STZ.NYSE,"Constellation Brands, Inc.",1,0,0,0,0,1,0,0,0,1,1,0,0,2025-06-26,2025-07-01
+CEG,CEG.NAS,Constellation Energy Corporation,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-29,2025-11-03
+COO,COO.NAS,"The Cooper Companies, Inc.",0,1,1,0,0,1,1,0,0,1,1,1,1,2025-08-22,2025-08-27
+CPRT,CPRT.NAS,"Copart, Inc.",0,0,1,0,0,0,0,0,0,1,1,1,0,2025-09-08,2025-09-11
+GLW,GLW.NYSE,Corning Incorporated,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+CPAY,CPAY.NYSE,"Corpay, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+CTVA,CTVA.NYSE,"Corteva, Inc.",0,0,1,0,0,1,1,0,0,1,1,1,0,2025-08-01,2025-08-06
+CSGP,CSGP.NAS,"CoStar Group, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-17,2025-07-22
+COST,COST.NAS,Costco Wholesale Corporation,0,0,0,1,0,0,0,0,0,1,1,1,0,2025-05-26,2025-05-29
+CTRA,CTRA.NYSE,Coterra Energy Inc.,0,0,1,0,0,1,0,0,0,1,1,1,0,2025-10-27,2025-10-30
+CRWD,CRWD.NAS,"CrowdStrike Holdings, Inc.",0,1,1,0,0,1,0,0,0,1,1,1,1,2025-08-22,2025-08-27
+CCI,CCI.NYSE,Crown Castle Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+CSX,CSX.NAS,CSX Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-10,2025-10-15
+CMI,CMI.NYSE,Cummins Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+CVS,CVS.NYSE,CVS Health Corporation,0,1,1,0,0,0,1,0,0,1,1,0,1,2025-07-28,2025-07-31
+DHR,DHR.NYSE,Danaher Corporation,0,0,1,0,0,1,1,0,0,1,1,0,0,2025-10-16,2025-10-21
+DRI,DRI.NYSE,"Darden Restaurants, Inc.",0,1,1,0,0,0,0,0,0,1,1,1,1,2025-09-22,2025-09-25
+DVA,DVA.NYSE,DaVita Inc.,0,1,0,0,0,1,1,0,1,1,1,0,1,2025-10-23,2025-10-28
+DAY,DAY.NYSE,Dayforce Inc,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+DECK,DECK.NYSE,Deckers Outdoor Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-20,2025-10-23
+DE,DE.NYSE,Deere & Company,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-08-11,2025-08-14
+DELL,DELL.NYSE,Dell Technologies Inc.,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-08-25,2025-08-28
+DAL,DAL.NYSE,"Delta Air Lines, Inc.",0,1,0,0,0,0,0,0,0,1,1,1,1,2025-10-06,2025-10-09
+DVN,DVN.NYSE,Devon Energy Corporation,1,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-30,2025-11-04
+DXCM,DXCM.NAS,"DexCom, Inc.",1,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-27,2025-10-30
+FANG,FANG.NAS,"Diamondback Energy, Inc.",1,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-29,2025-11-03
+DLR,DLR.NYSE,"Digital Realty Trust, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-20,2025-10-23
+DG,DG.NYSE,Dollar General Corporation,0,1,0,0,0,0,0,0,0,1,1,1,1,2025-08-25,2025-08-28
+DLTR,DLTR.NAS,"Dollar Tree, Inc.",1,1,0,0,0,0,0,0,0,1,1,1,1,2025-08-28,2025-09-02
+D,D.NYSE,"Dominion Energy, Inc.",0,0,0,0,0,1,0,0,0,1,1,1,0,2025-10-28,2025-10-31
+DPZ,DPZ.NAS,"Domino's Pizza, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-06,2025-10-09
+DASH,DASH.NAS,"DoorDash, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+DOV,DOV.NYSE,Dover Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+DOW,DOW.NYSE,Dow Inc.,1,1,1,0,0,0,1,0,0,1,1,0,1,2025-10-20,2025-10-23
+DHI,DHI.NYSE,"D.R. Horton, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-07-17,2025-07-22
+DTE,DTE.NYSE,DTE Energy Company,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+DUK,DUK.NYSE,Duke Energy Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-31,2025-08-05
+DD,DD.NYSE,"DuPont de Nemours, Inc.",0,1,0,0,0,0,1,0,0,1,1,0,1,2025-07-31,2025-08-05
+EMN,EMN.NYSE,Eastman Chemical Company,0,1,1,0,0,1,1,0,0,1,1,0,1,2025-10-27,2025-10-30
+ETN,ETN.NYSE,Eaton Corporation plc,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-27,2025-10-30
+EBAY,EBAY.NAS,eBay Inc.,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+ECL,ECL.NYSE,Ecolab Inc.,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-23,2025-10-28
+EIX,EIX.NYSE,Edison International,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-08-11,2025-08-14
+EW,EW.NYSE,Edwards Lifesciences Corporation,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-20,2025-10-23
+EA,EA.NAS,Electronic Arts Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-23,2025-10-28
+ELV,ELV.NYSE,"Elevance Health, Inc.",1,1,1,0,0,1,1,0,0,1,1,1,1,2025-10-13,2025-10-16
+EMR,EMR.NYSE,Emerson Electric Co.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+ENPH,ENPH.None,"Enphase Energy, Inc.",1,1,1,1,0,1,0,0,1,1,1,1,1,2025-10-16,2025-10-21
+ETR,ETR.NYSE,Entergy Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+EOG,EOG.NYSE,"EOG Resources, Inc.",0,0,1,0,0,0,0,0,0,1,1,1,0,2025-11-03,2025-11-06
+EPAM,EPAM.NYSE,"EPAM Systems, Inc.",1,1,1,1,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+EQT,EQT.NYSE,EQT Corporation,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-07-17,2025-07-22
+EFX,EFX.NYSE,Equifax Inc.,0,1,1,0,0,1,0,0,0,1,1,1,1,2025-10-10,2025-10-15
+EQIX,EQIX.NAS,"Equinix, Inc.",0,1,0,0,0,0,0,0,0,1,1,1,1,2025-10-24,2025-10-29
+EQR,EQR.NYSE,Equity Residential,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+ESS,ESS.NYSE,"Essex Property Trust, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+EL,EL.NYSE,The Estée Lauder Companies Inc.,1,1,0,0,0,1,0,0,0,1,1,0,1,2025-08-15,2025-08-20
+EVRG,EVRG.NAS,"Evergy, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+ES,ES.NYSE,Eversource Energy,0,0,0,0,0,1,0,0,0,1,1,1,0,2025-07-28,2025-07-31
+EXC,EXC.NAS,Exelon Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+EXE,EXE.NAS,Expand Energy Corporation,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-23,2025-10-28
+EXPE,EXPE.NAS,"Expedia Group, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+EXPD,EXPD.NYSE,"Expeditors International of Washington, Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+EXR,EXR.NYSE,Extra Space Storage Inc.,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+XOM,XOM.NYSE,Exxon Mobil Corporation,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-28,2025-10-31
+FAST,FAST.NAS,Fastenal Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-08,2025-10-13
+FRT,FRT.NYSE,Federal Realty Investment Trust,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+FDX,FDX.NYSE,FedEx Corporation,0,1,1,0,0,0,0,0,0,1,1,0,1,2025-09-15,2025-09-18
+FITB,FITB.NAS,Fifth Third Bancorp,0,0,1,0,0,1,0,0,0,1,1,1,0,2025-10-14,2025-10-17
+FSLR,FSLR.NAS,"First Solar, Inc.",0,1,0,0,0,1,0,0,0,1,1,1,1,2025-10-23,2025-10-28
+FE,FE.NYSE,FirstEnergy Corp.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+FI,FI.NYSE,"Fiserv, Inc.",0,1,1,0,0,0,0,0,0,1,1,0,1,2025-10-16,2025-10-21
+F,F.NYSE,Ford Motor Company,0,1,1,0,0,1,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+FTNT,FTNT.NAS,"Fortinet, Inc.",0,1,1,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+FTV,FTV.NYSE,Fortive Corporation,1,0,1,1,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+FOXA,FOXA.NAS,Fox Corporation,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-30,2025-11-04
+FOX,FOX.NAS,Fox Corporation,0,0,0,0,0,0,0,1,0,1,1,1,0,2025-10-30,2025-11-04
+BEN,BEN.NYSE,"Franklin Resources, Inc.",1,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-29,2025-08-01
+FCX,FCX.NYSE,Freeport-McMoRan Inc.,0,0,1,0,0,0,1,0,0,1,1,0,0,2025-10-16,2025-10-21
+GRMN,GRMN.NYSE,Garmin Ltd.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+IT,IT.NYSE,"Gartner, Inc.",0,1,1,0,0,0,0,0,0,1,1,0,1,2025-07-31,2025-08-05
+GE,GE.NYSE,GE Aerospace,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-14,2025-07-17
+GEHC,GEHC.NAS,GE HealthCare Technologies Inc.,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-24,2025-10-29
+GEV,GEV.NYSE,GE Vernova Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-17,2025-10-22
+GEN,GEN.NAS,Gen Digital Inc.,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+GNRC,GNRC.NYSE,Generac Holdings Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+GD,GD.NYSE,General Dynamics Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-18,2025-07-23
+GIS,GIS.NYSE,"General Mills, Inc.",0,0,1,1,0,1,0,0,0,1,1,1,0,2025-09-12,2025-09-17
+GM,GM.NYSE,General Motors Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+GPC,GPC.NYSE,Genuine Parts Company,1,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-16,2025-10-21
+GILD,GILD.NAS,"Gilead Sciences, Inc.",0,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-31,2025-11-05
+GPN,GPN.NYSE,Global Payments Inc.,1,1,0,0,0,0,0,1,0,1,1,0,1,2025-10-24,2025-10-29
+GL,GL.NYSE,Globe Life Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-17,2025-10-22
+GDDY,GDDY.NYSE,GoDaddy Inc.,0,1,1,1,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+GS,GS.NYSE,"The Goldman Sachs Group, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-11,2025-07-16
+HAL,HAL.NYSE,Halliburton Company,1,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-17,2025-07-22
+HIG,HIG.NYSE,"The Hartford Insurance Group, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+HAS,HAS.NAS,"Hasbro, Inc.",0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+HCA,HCA.NYSE,"HCA Healthcare, Inc.",0,0,1,0,0,1,1,0,0,1,1,0,0,2025-10-21,2025-10-24
+DOC,DOC.NYSE,"Healthpeak Properties, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+HSIC,HSIC.NAS,"Henry Schein, Inc.",0,0,1,0,0,1,1,0,0,1,1,0,0,2025-10-30,2025-11-04
+HSY,HSY.NYSE,The Hershey Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-25,2025-07-30
+HPE,HPE.NYSE,Hewlett Packard Enterprise Company,0,1,1,0,0,0,0,0,0,1,1,1,1,2025-08-29,2025-09-03
+HLT,HLT.NYSE,Hilton Worldwide Holdings Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+HOLX,HOLX.NAS,"Hologic, Inc.",0,0,0,0,0,1,1,0,0,1,1,1,0,2025-07-25,2025-07-30
+HD,HD.NYSE,"The Home Depot, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-08-14,2025-08-19
+HON,HON.NAS,Honeywell International Inc.,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+HRL,HRL.NYSE,Hormel Foods Corporation,0,1,1,0,0,0,0,0,0,1,1,1,1,2025-08-25,2025-08-28
+HST,HST.NAS,"Host Hotels & Resorts, Inc.",1,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-25,2025-07-30
+HWM,HWM.NYSE,Howmet Aerospace Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-07-28,2025-07-31
+HPQ,HPQ.NYSE,HP Inc.,0,1,0,0,0,1,0,0,0,1,1,1,1,2025-08-22,2025-08-27
+HUBB,HUBB.NYSE,Hubbell Incorporated,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+HUM,HUM.NYSE,Humana Inc.,1,1,0,0,0,0,1,0,0,1,1,0,1,2025-07-25,2025-07-30
+HBAN,HBAN.NAS,Huntington Bancshares Incorporated,0,0,1,0,0,1,0,0,0,1,1,1,0,2025-10-14,2025-10-17
+IBM,IBM.NYSE,International Business Machines Corporation,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+IEX,IEX.NYSE,IDEX Corporation,1,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+IDXX,IDXX.NAS,"IDEXX Laboratories, Inc.",1,1,0,0,0,1,1,0,0,1,1,0,1,2025-10-27,2025-10-30
+ITW,ITW.NYSE,Illinois Tool Works Inc.,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+INCY,INCY.NAS,Incyte Corporation,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-23,2025-10-28
+IR,IR.NYSE,Ingersoll Rand Inc.,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+PODD,PODD.NAS,Insulet Corporation,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-11-03,2025-11-06
+INTC,INTC.NAS,Intel Corporation,1,1,1,0,0,0,0,0,0,1,1,1,1,2025-07-21,2025-07-24
+ICE,ICE.NYSE,"Intercontinental Exchange, Inc.",0,0,0,0,0,1,0,0,0,1,1,1,0,2025-10-27,2025-10-30
+IFF,IFF.NYSE,International Flavors & Fragrances Inc.,0,0,0,0,0,1,1,0,0,1,1,0,0,2025-10-30,2025-11-04
+IP,IP.NYSE,International Paper Company,0,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-27,2025-10-30
+INTU,INTU.NAS,Intuit Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-08-18,2025-08-21
+ISRG,ISRG.NAS,"Intuitive Surgical, Inc.",0,0,1,0,0,0,1,0,0,1,1,0,0,2025-10-13,2025-10-16
+IVZ,IVZ.NYSE,Invesco Ltd.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-17,2025-07-22
+INVH,INVH.NYSE,Invitation Homes Inc.,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+IQV,IQV.NYSE,IQVIA Holdings Inc.,1,0,0,0,0,1,1,0,0,1,1,0,0,2025-07-17,2025-07-22
+IRM,IRM.NYSE,Iron Mountain Incorporated,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+JBHT,JBHT.NAS,"J.B. Hunt Transport Services, Inc.",1,0,0,0,0,0,0,0,0,1,1,1,0,2025-07-10,2025-07-15
+JBL,JBL.NYSE,Jabil Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-09-19,2025-09-24
+JKHY,JKHY.NAS,"Jack Henry & Associates, Inc.",0,0,1,0,0,1,0,0,0,1,1,0,0,2025-08-14,2025-08-19
+J,J.NYSE,Jacobs Solutions Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-31,2025-08-05
+JNJ,JNJ.NYSE,Johnson & Johnson,0,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-09,2025-10-14
+JCI,JCI.NYSE,Johnson Controls International plc,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-07-24,2025-07-29
+JPM,JPM.NYSE,JPMorgan Chase & Co.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-09,2025-10-14
+K,K.NYSE,Kellanova,0,1,1,0,0,0,0,0,0,1,1,1,1,2025-10-27,2025-10-30
+KVUE,KVUE.NYSE,Kenvue Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+KDP,KDP.NAS,Keurig Dr Pepper Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+KEY,KEY.NYSE,KeyCorp,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-13,2025-10-16
+KEYS,KEYS.NYSE,"Keysight Technologies, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-08-14,2025-08-19
+KMB,KMB.NAS,Kimberly-Clark Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+KIM,KIM.NYSE,Kimco Realty Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+KMI,KMI.NYSE,"Kinder Morgan, Inc.",0,0,0,0,0,0,0,1,0,1,1,0,0,2025-07-11,2025-07-16
+KKR,KKR.NYSE,KKR & Co. Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+KLAC,KLAC.NAS,KLA Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+KHC,KHC.NAS,The Kraft Heinz Company,1,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+KR,KR.NYSE,The Kroger Co.,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-09-05,2025-09-10
+LHX,LHX.NYSE,"L3Harris Technologies, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+LH,LH.NYSE,Labcorp Holdings Inc.,0,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-20,2025-10-23
+LRCX,LRCX.NAS,Lam Research Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+LW,LW.NYSE,"Lamb Weston Holdings, Inc.",1,1,0,0,0,0,0,0,0,1,1,0,1,2025-09-25,2025-09-30
+LVS,LVS.NYSE,Las Vegas Sands Corp.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+LDOS,LDOS.NYSE,"Leidos Holdings, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+LEN,LEN.NYSE,Lennar Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-09-15,2025-09-18
+LLY,LLY.NYSE,Eli Lilly and Company,0,1,0,0,0,1,1,0,0,1,1,0,1,2025-10-27,2025-10-30
+LIN,LIN.NAS,Linde plc,0,0,1,0,0,1,1,0,0,1,1,0,0,2025-10-27,2025-10-30
+LYV,LYV.NYSE,"Live Nation Entertainment, Inc.",0,0,0,0,0,0,0,0,1,1,1,0,0,2025-08-04,2025-08-07
+LKQ,LKQ.NAS,LKQ Corporation,1,1,1,1,0,0,0,0,0,1,1,0,1,2025-07-21,2025-07-24
+LMT,LMT.NYSE,Lockheed Martin Corporation,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+L,L.NYSE,Loews Corporation,0,0,0,0,0,1,0,1,0,1,1,1,0,2025-10-29,2025-11-03
+LOW,LOW.NYSE,"Lowe's Companies, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-08-15,2025-08-20
+LULU,LULU.NAS,lululemon athletica inc.,1,1,1,0,0,0,0,0,0,1,1,1,1,2025-09-01,2025-09-04
+LYB,LYB.NYSE,LyondellBasell Industries N.V.,1,0,0,0,0,1,1,0,0,1,1,0,0,2025-10-28,2025-10-31
+MTB,MTB.NYSE,M&T Bank Corporation,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-13,2025-10-16
+MPC,MPC.NYSE,Marathon Petroleum Corporation,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+MAR,MAR.NAS,"Marriott International, Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-29,2025-11-03
+MMC,MMC.NYSE,"Marsh & McLennan Companies, Inc.",0,0,1,1,0,0,0,0,0,1,1,1,0,2025-07-14,2025-07-17
+MAS,MAS.NYSE,Masco Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-28,2025-07-31
+MA,MA.NYSE,Mastercard Incorporated,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+MTCH,MTCH.NAS,"Match Group, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-30,2025-11-04
+MKC,MKC.NYSE,"McCormick & Company, Incorporated",0,0,1,1,0,0,0,0,0,1,1,1,0,2025-09-25,2025-09-30
+MCD,MCD.NYSE,McDonald's Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+MCK,MCK.NYSE,McKesson Corporation,0,1,1,0,0,0,1,0,0,1,1,0,1,2025-10-31,2025-11-05
+MDT,MDT.NYSE,Medtronic plc,0,0,0,0,0,1,1,0,0,1,1,0,0,2025-08-14,2025-08-19
+MRK,MRK.NYSE,"Merck & Co., Inc.",1,1,0,0,0,1,1,0,0,1,1,0,1,2025-10-27,2025-10-30
+META,META.NAS,"Meta Platforms, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+MET,MET.NYSE,"MetLife, Inc.",0,0,1,1,0,1,0,1,0,1,1,0,0,2025-10-31,2025-11-05
+MGM,MGM.NYSE,MGM Resorts International,1,1,0,0,0,1,0,0,1,1,1,0,1,2025-10-24,2025-10-29
+MCHP,MCHP.NAS,Microchip Technology Incorporated,0,1,1,0,0,0,0,0,0,1,1,0,1,2025-08-04,2025-08-07
+MU,MU.NAS,"Micron Technology, Inc.",0,1,1,0,0,1,0,0,0,1,1,0,1,2025-09-19,2025-09-24
+MSFT,MSFT.NAS,Microsoft Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+MAA,MAA.NYSE,"Mid-America Apartment Communities, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+MRNA,MRNA.NAS,"Moderna, Inc.",1,1,0,0,0,1,1,0,1,1,1,0,1,2025-07-29,2025-08-01
+MHK,MHK.NYSE,"Mohawk Industries, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-07-21,2025-07-24
+MOH,MOH.NYSE,"Molina Healthcare, Inc.",1,1,1,0,0,0,1,0,0,1,1,1,1,2025-10-17,2025-10-22
+TAP,TAP.NYSE,Molson Coors Beverage Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+MDLZ,MDLZ.NAS,"Mondelez International, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-24,2025-07-29
+MPWR,MPWR.NAS,"Monolithic Power Systems, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-27,2025-10-30
+MNST,MNST.NAS,Monster Beverage Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+MCO,MCO.NYSE,Moody's Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+MS,MS.NYSE,Morgan Stanley,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-10,2025-10-15
+MOS,MOS.NYSE,The Mosaic Company,0,1,1,0,0,1,1,0,0,1,1,0,1,2025-07-31,2025-08-05
+MSI,MSI.NYSE,"Motorola Solutions, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+MSCI,MSCI.NYSE,MSCI Inc.,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-07-17,2025-07-22
+NDAQ,NDAQ.NAS,"Nasdaq, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+NTAP,NTAP.NAS,"NetApp, Inc.",0,1,0,0,0,0,0,0,0,1,1,1,1,2025-08-22,2025-08-27
+NFLX,NFLX.NAS,"Netflix, Inc.",0,1,1,0,0,0,0,0,0,1,1,1,1,2025-10-13,2025-10-16
+NEM,NEM.NYSE,Newmont Corporation,0,0,0,0,0,1,1,0,0,1,1,0,0,2025-10-17,2025-10-22
+NWSA,NWSA.NAS,News Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+NWS,NWS.NAS,News Corporation,0,0,0,0,0,0,0,1,0,1,1,0,0,2025-11-03,2025-11-06
+NEE,NEE.NYSE,"NextEra Energy, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-20,2025-10-23
+NKE,NKE.NYSE,"NIKE, Inc.",1,1,0,0,0,0,0,0,0,1,1,1,1,2025-09-25,2025-09-30
+NI,NI.NYSE,NiSource Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+NSC,NSC.NYSE,Norfolk Southern Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+NTRS,NTRS.NAS,Northern Trust Corporation,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+NOC,NOC.NYSE,Northrop Grumman Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-18,2025-07-23
+NCLH,NCLH.NYSE,Norwegian Cruise Line Holdings Ltd.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-27,2025-10-30
+NRG,NRG.NYSE,"NRG Energy, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+NUE,NUE.NYSE,Nucor Corporation,1,1,0,0,0,1,1,0,0,1,1,0,1,2025-10-22,2025-10-27
+NVDA,NVDA.NAS,NVIDIA Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-08-22,2025-08-27
+NXPI,NXPI.NAS,NXP Semiconductors N.V.,0,0,1,0,0,1,0,0,0,1,1,1,0,2025-07-16,2025-07-21
+ORLY,ORLY.NAS,"O'Reilly Automotive, Inc.",0,0,0,0,0,0,0,1,0,1,1,0,0,2025-10-17,2025-10-22
+OXY,OXY.NYSE,Occidental Petroleum Corporation,1,0,1,0,0,0,0,0,0,1,1,1,0,2025-08-01,2025-08-06
+ODFL,ODFL.NAS,"Old Dominion Freight Line, Inc.",1,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+OMC,OMC.NYSE,Omnicom Group Inc.,0,0,0,0,0,0,0,0,1,1,1,0,0,2025-10-09,2025-10-14
+ON,ON.NAS,ON Semiconductor Corporation,1,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-29,2025-11-03
+OKE,OKE.NYSE,"ONEOK, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-23,2025-10-28
+ORCL,ORCL.NYSE,Oracle Corporation,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-09-03,2025-09-08
+OTIS,OTIS.NYSE,Otis Worldwide Corporation,0,1,0,0,0,1,0,0,0,1,1,0,1,2025-07-18,2025-07-23
+PCAR,PCAR.NAS,PACCAR Inc,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+PKG,PKG.NYSE,Packaging Corporation of America,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-16,2025-10-21
+PLTR,PLTR.NAS,Palantir Technologies Inc.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-29,2025-11-03
+PANW,PANW.NAS,"Palo Alto Networks, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-08-13,2025-08-18
+PARA,PARA.NAS,Paramount Global,0,1,0,0,0,0,0,0,1,1,1,0,1,2025-07-28,2025-07-31
+PH,PH.NYSE,Parker-Hannifin Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+PAYX,PAYX.NAS,"Paychex, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-06-19,2025-06-24
+PAYC,PAYC.NYSE,"Paycom Software, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-31,2025-11-05
+PYPL,PYPL.NAS,"PayPal Holdings, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+PNR,PNR.NYSE,Pentair plc,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-07-17,2025-07-22
+PEP,PEP.NAS,"PepsiCo, Inc.",1,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-02,2025-10-07
+PFE,PFE.NYSE,Pfizer Inc.,0,0,1,0,0,0,1,0,0,1,1,0,0,2025-10-30,2025-11-04
+PCG,PCG.NYSE,PG&E Corporation,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-07-28,2025-07-31
+PM,PM.NYSE,Philip Morris International Inc.,0,1,1,1,0,0,0,0,0,1,1,0,1,2025-10-16,2025-10-21
+PSX,PSX.NYSE,Phillips 66,0,0,1,0,0,1,0,0,0,1,1,1,0,2025-07-22,2025-07-25
+PNW,PNW.NYSE,Pinnacle West Capital Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+PNC,PNC.NYSE,"The PNC Financial Services Group, Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-10,2025-10-15
+POOL,POOL.NAS,Pool Corporation,1,1,0,0,0,0,0,0,1,1,1,0,1,2025-10-20,2025-10-23
+PPG,PPG.NYSE,"PPG Industries, Inc.",1,0,1,0,0,0,1,0,0,1,1,0,0,2025-10-10,2025-10-15
+PPL,PPL.NYSE,PPL Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-28,2025-10-31
+PFG,PFG.NAS,"Principal Financial Group, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+PG,PG.NYSE,The Procter & Gamble Company,0,0,1,1,0,0,0,0,0,1,1,0,0,2025-10-13,2025-10-16
+PGR,PGR.NYSE,The Progressive Corporation,0,0,1,1,0,0,0,0,0,1,1,1,0,2025-07-30,2025-08-04
+PLD,PLD.NYSE,"Prologis, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-07-11,2025-07-16
+PRU,PRU.NYSE,"Prudential Financial, Inc.",0,0,1,1,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+PEG,PEG.NYSE,Public Service Enterprise Group Incorporated,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-31,2025-08-05
+PTC,PTC.NAS,PTC Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-25,2025-07-30
+PSA,PSA.NYSE,Public Storage,0,0,1,1,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+PHM,PHM.NYSE,"PulteGroup, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+PWR,PWR.NYSE,"Quanta Services, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-27,2025-10-30
+QCOM,QCOM.NAS,QUALCOMM Incorporated,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-07-25,2025-07-30
+DGX,DGX.NYSE,Quest Diagnostics Incorporated,0,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-16,2025-10-21
+RL,RL.NYSE,Ralph Lauren Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+RJF,RJF.NYSE,"Raymond James Financial, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-18,2025-07-23
+RTX,RTX.NYSE,RTX Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-17,2025-07-22
+O,O.NYSE,Realty Income Corporation,0,0,0,1,0,0,0,1,0,1,1,0,0,2025-10-29,2025-11-03
+REG,REG.NAS,Regency Centers Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+REGN,REGN.NAS,"Regeneron Pharmaceuticals, Inc.",0,1,0,0,0,1,1,0,0,1,1,1,1,2025-10-27,2025-10-30
+RF,RF.NYSE,Regions Financial Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-14,2025-10-17
+RSG,RSG.NYSE,"Republic Services, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+RMD,RMD.NYSE,ResMed Inc.,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-20,2025-10-23
+RVTY,RVTY.NYSE,"Revvity, Inc.",0,0,0,0,0,0,1,0,0,1,1,0,0,2025-07-23,2025-07-28
+ROK,ROK.NYSE,"Rockwell Automation, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+ROL,ROL.NYSE,"Rollins, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+ROP,ROP.NAS,"Roper Technologies, Inc.",0,0,1,1,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+ROST,ROST.NAS,"Ross Stores, Inc.",0,1,0,0,0,0,0,0,0,1,1,1,1,2025-08-18,2025-08-21
+RCL,RCL.NYSE,Royal Caribbean Cruises Ltd.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+SPGI,SPGI.NYSE,S&P Global Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+CRM,CRM.NYSE,"Salesforce, Inc.",0,1,1,0,0,0,0,0,0,1,1,1,1,2025-08-29,2025-09-03
+SBAC,SBAC.NAS,SBA Communications Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-22,2025-10-27
+SLB,SLB.NYSE,Schlumberger Limited,1,0,1,0,0,1,0,0,0,1,1,1,0,2025-10-14,2025-10-17
+STX,STX.NAS,Seagate Technology Holdings plc,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+SRE,SRE.NYSE,Sempra,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-31,2025-11-05
+NOW,NOW.NYSE,"ServiceNow, Inc.",0,1,1,0,0,0,0,0,0,1,1,0,1,2025-07-18,2025-07-23
+SPG,SPG.NYSE,"Simon Property Group, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-30,2025-08-04
+SWKS,SWKS.NAS,"Skyworks Solutions, Inc.",1,1,1,0,0,1,0,0,0,1,1,0,1,2025-07-31,2025-08-05
+SJM,SJM.NYSE,The J. M. Smucker Company,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-08-22,2025-08-27
+SW,SW.NYSE,Smurfit Westrock Plc,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+SOLV,SOLV.NYSE,Solventum Corporation,0,0,1,1,0,1,1,0,0,1,1,1,0,2025-11-03,2025-11-06
+SO,SO.NYSE,The Southern Company,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-27,2025-10-30
+LUV,LUV.NYSE,Southwest Airlines Co.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-17,2025-10-22
+SWK,SWK.NYSE,"Stanley Black & Decker, Inc.",1,1,1,0,0,1,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+SBUX,SBUX.NAS,Starbucks Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-23,2025-10-28
+STT,STT.NYSE,State Street Corporation,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-09,2025-10-14
+STLD,STLD.NAS,"Steel Dynamics, Inc.",0,1,1,0,0,0,1,0,0,1,1,1,1,2025-10-10,2025-10-15
+STE,STE.NYSE,STERIS plc,0,0,0,0,0,1,1,0,0,1,1,0,0,2025-10-31,2025-11-05
+SMCI,SMCI.NAS,"Super Micro Computer, Inc.",0,1,0,0,0,1,0,1,1,1,1,0,1,2025-07-31,2025-08-05
+SYF,SYF.NYSE,Synchrony Financial,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-10,2025-10-15
+SNPS,SNPS.NAS,"Synopsys, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-09-04,2025-09-09
+SYY,SYY.NYSE,Sysco Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+TMUS,TMUS.NAS,"T-Mobile US, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+TROW,TROW.NAS,"T. Rowe Price Group, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-28,2025-10-31
+TTWO,TTWO.NAS,"Take-Two Interactive Software, Inc.",0,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-31,2025-11-05
+TPR,TPR.NYSE,"Tapestry, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-08-11,2025-08-14
+TRGP,TRGP.NYSE,Targa Resources Corp.,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-08-04,2025-08-07
+TGT,TGT.NYSE,Target Corporation,0,1,0,0,0,1,0,0,0,1,1,1,1,2025-08-15,2025-08-20
+TEL,TEL.NYSE,TE Connectivity plc,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-18,2025-07-23
+TER,TER.NAS,"Teradyne, Inc.",0,1,0,0,0,1,0,0,0,1,1,0,1,2025-10-17,2025-10-22
+TSLA,TSLA.NAS,"Tesla, Inc.",0,1,1,0,0,0,0,0,0,1,1,1,1,2025-10-17,2025-10-22
+TXN,TXN.NAS,Texas Instruments Incorporated,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+TXT,TXT.NYSE,Textron Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-21,2025-07-24
+TMO,TMO.NYSE,Thermo Fisher Scientific Inc.,0,1,0,0,0,1,1,0,0,1,1,0,1,2025-10-17,2025-10-22
+TJX,TJX.NYSE,"The TJX Companies, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-08-15,2025-08-20
+TKO,TKO.NYSE,"TKO Group Holdings, Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-11-03,2025-11-06
+TSCO,TSCO.NAS,Tractor Supply Company,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+TT,TT.NYSE,Trane Technologies plc,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+TRV,TRV.NYSE,"The Travelers Companies, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-13,2025-10-16
+TRMB,TRMB.NAS,Trimble Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+TFC,TFC.NYSE,Truist Financial Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-14,2025-10-17
+TSN,TSN.NYSE,"Tyson Foods, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-07-30,2025-08-04
+USB,USB.NYSE,U.S. Bancorp,0,0,1,0,0,0,0,0,0,1,1,1,0,2025-10-13,2025-10-16
+UBER,UBER.NYSE,"Uber Technologies, Inc.",0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+UDR,UDR.NYSE,"UDR, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+ULTA,ULTA.NAS,"Ulta Beauty, Inc.",0,1,0,0,0,0,0,0,0,1,1,1,1,2025-08-25,2025-08-28
+UNP,UNP.NYSE,Union Pacific Corporation,0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+UAL,UAL.NAS,"United Airlines Holdings, Inc.",0,0,0,0,0,0,0,0,0,1,1,1,0,2025-07-11,2025-07-16
+UPS,UPS.NYSE,"United Parcel Service, Inc.",1,1,1,0,0,0,0,0,0,1,1,0,1,2025-10-23,2025-10-28
+URI,URI.NYSE,"United Rentals, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-07-18,2025-07-23
+UNH,UNH.NYSE,UnitedHealth Group Incorporated,0,1,1,0,0,1,1,0,0,1,1,1,1,2025-10-10,2025-10-15
+UHS,UHS.NYSE,"Universal Health Services, Inc.",0,0,1,1,0,1,1,0,0,1,1,0,0,2025-10-20,2025-10-23
+VLO,VLO.NYSE,Valero Energy Corporation,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-07-21,2025-07-24
+VTR,VTR.NYSE,"Ventas, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-24,2025-10-29
+VLTO,VLTO.NYSE,Veralto Corporation,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+VRSN,VRSN.NAS,"VeriSign, Inc.",0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-20,2025-10-23
+VRSK,VRSK.NAS,"Verisk Analytics, Inc.",0,1,1,0,0,0,0,0,0,1,1,0,1,2025-10-24,2025-10-29
+VZ,VZ.NYSE,Verizon Communications Inc.,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-16,2025-10-21
+VRTX,VRTX.NAS,Vertex Pharmaceuticals Incorporated,0,1,1,0,0,0,1,0,0,1,1,0,1,2025-07-30,2025-08-04
+VTRS,VTRS.NAS,Viatris Inc.,0,1,0,0,0,0,1,0,0,1,1,0,1,2025-11-03,2025-11-06
+VICI,VICI.NYSE,VICI Properties Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+V,V.NYSE,Visa Inc.,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+VST,VST.NYSE,Vistra Corp.,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+VMC,VMC.NYSE,Vulcan Materials Company,0,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-27,2025-10-30
+WRB,WRB.NYSE,W. R. Berkley Corporation,0,0,0,1,0,1,0,0,0,1,1,1,0,2025-10-15,2025-10-20
+WAB,WAB.NYSE,Westinghouse Air Brake Technologies Corporation,0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-17,2025-10-22
+WBA,WBA.NAS,"Walgreens Boots Alliance, Inc.",0,1,0,0,0,0,1,0,0,1,1,1,1,2025-06-20,2025-06-25
+WMT,WMT.NYSE,Walmart Inc.,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-08-18,2025-08-21
+DIS,DIS.NYSE,The Walt Disney Company,0,1,1,0,0,0,0,0,0,1,1,0,1,2025-08-01,2025-08-06
+WBD,WBD.NAS,"Warner Bros. Discovery, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-11-03,2025-11-06
+WM,WM.NYSE,"Waste Management, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+WAT,WAT.NYSE,Waters Corporation,0,1,1,1,0,0,1,0,0,1,1,1,1,2025-10-28,2025-10-31
+WEC,WEC.NYSE,"WEC Energy Group, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+WFC,WFC.NYSE,Wells Fargo & Company,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-07-10,2025-07-15
+WELL,WELL.NYSE,Welltower Inc.,0,0,0,0,0,0,0,0,0,1,1,1,0,2025-10-22,2025-10-27
+WST,WST.NYSE,"West Pharmaceutical Services, Inc.",1,1,0,0,0,0,1,0,0,1,1,0,1,2025-10-20,2025-10-23
+WDC,WDC.NAS,Western Digital Corporation,0,1,0,0,0,0,0,0,0,1,1,0,1,2025-10-20,2025-10-23
+WY,WY.NYSE,Weyerhaeuser Company,1,0,1,0,0,0,0,0,0,1,1,0,0,2025-07-21,2025-07-24
+WSM,WSM.NYSE,"Williams-Sonoma, Inc.",0,1,0,0,0,0,0,0,0,1,1,0,1,2025-08-25,2025-08-28
+WMB,WMB.NYSE,"The Williams Companies, Inc.",0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-31,2025-11-05
+WTW,WTW.NAS,Willis Towers Watson Public Limited Company,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+WDAY,WDAY.NAS,"Workday, Inc.",0,1,1,1,0,1,0,0,0,1,1,0,1,2025-08-18,2025-08-21
+WYNN,WYNN.NAS,"Wynn Resorts, Limited",0,0,1,0,0,1,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+XEL,XEL.NAS,Xcel Energy Inc.,0,0,0,0,0,0,0,1,0,1,1,1,0,2025-10-27,2025-10-30
+XYL,XYL.NYSE,Xylem Inc.,0,0,0,0,0,1,0,0,0,1,1,0,0,2025-10-27,2025-10-30
+YUM,YUM.NYSE,"Yum! Brands, Inc.",0,0,1,0,0,0,0,0,0,1,1,0,0,2025-10-30,2025-11-04
+ZBRA,ZBRA.NAS,Zebra Technologies Corporation,0,0,0,0,0,0,0,0,0,1,1,0,0,2025-10-23,2025-10-28
+ZBH,ZBH.NYSE,"Zimmer Biomet Holdings, Inc.",1,0,0,0,0,0,1,0,0,1,1,0,0,2025-10-27,2025-10-30
+ZTS,ZTS.NYSE,Zoetis Inc.,1,0,1,1,0,1,1,0,0,1,1,0,0,2025-10-29,2025-11-03
